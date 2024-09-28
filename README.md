@@ -1,4 +1,5 @@
-##Full Stack Stock Monitoring Web
+#Full Stack Stock Monitoring Web
+
 Overview
 Full Stack Stock Monitoring Web is a comprehensive web application that allows users to monitor stock prices, view historical data, and manage a personalized stock watchlist. The platform provides real-time updates on stock market performance, making it ideal for users who want to stay informed and make data-driven decisions. The application is built using the MERN (MongoDB, Express, React, Node.js) stack, ensuring a robust and scalable experience for users.
 
